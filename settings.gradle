@@ -1,2 +1,2 @@
-include ':app'
+include ':algorithm'
 rootProject.name = "My Application"
